@@ -21,7 +21,7 @@ me = AspiringSoftwareEngineer()
 
 ## 🛠️ Languages and Technologies
 
-- Programming Languages: Java, C++/C, Python, JavaScript, MATLAB, R, HTML/CSS, SQL, RISC-V
+- Programming Languages: Java, C++/C, Python, JavaScript, MATLAB, R, SQL
 
 ## 📚 Frameworks and Libraries
 
